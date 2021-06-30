@@ -1,0 +1,25 @@
+package operators_in_java;
+
+public class UnaryOperators 
+{
+
+	public static void main(String[] args) 
+	{
+		int a = 10;
+      
+		i++;  
+		//prints 11  
+		System.out.println(i);  
+		++i;                 
+		//prints 12  
+		System.out.println(i);  
+		//prints 13  
+		System.out.println(++i);  
+		//prints 13  
+		System.out.println(i++);  
+		//prints 14  
+		System.out.println(i);  
+        
+	}
+
+}
