@@ -47,6 +47,9 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="F:\Companies\Revature\Week 1\java_msa_India_batch\Week-1\polymorph_demo"/>
+			<item value="F:\Companies\Revature\Week 1\java_msa_India_batch\Week-1\inheritance_demo"/>
+			<item value="F:\Companies\Revature\Week 1\java_msa_India_batch\Week-1\encapsulation_demo"/>
 			<item value="F:\Companies\Revature\Week 1\java_msa_India_batch\Week-1\my_first_java_app"/>
 			<item value="F:\Companies\Revature\Week 1\java_msa_India_batch\Week-1\constructor_demo"/>
 			<item value="F:\Companies\Revature\Week 1\java_msa_India_batch\Week-1\data_types_static_nonstatic_demo"/>
