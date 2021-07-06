@@ -47,6 +47,17 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="F:\Companies\Revature\Week 1\java_msa_India_batch\Week-1\comparable_comparator_demo"/>
+			<item value="F:\Companies\Revature\Week 1\java_msa_India_batch\Week-1\set_demo"/>
+			<item value="F:\Companies\Revature\Week 1\java_msa_India_batch\Week-1\list_demo"/>
+			<item value="F:\Companies\Revature\Week 1\java_msa_India_batch\Week-1\exception_demo"/>
+			<item value="F:\Companies\Revature\Week 1\java_msa_India_batch\Week-1\arrays_demo"/>
+			<item value="F:\Companies\Revature\Week 1\java_msa_India_batch\Week-1\wrapper_demo"/>
+			<item value="F:\Companies\Revature\Week 1\java_msa_India_batch\Week-1\stringbuffer_stringbuilder_demo"/>
+			<item value="F:\Companies\Revature\Week 1\java_msa_India_batch\Week-1\string_demo"/>
+			<item value="F:\Companies\Revature\Week 1\java_msa_India_batch\Week-1\object_casting_override_object_class_demo"/>
+			<item value="F:\Companies\Revature\Week 1\java_msa_India_batch\Week-1\interface_demo"/>
+			<item value="F:\Companies\Revature\Week 1\java_msa_India_batch\Week-1\abstract_class_demo"/>
 			<item value="F:\Companies\Revature\Week 1\java_msa_India_batch\Week-1\polymorph_demo"/>
 			<item value="F:\Companies\Revature\Week 1\java_msa_India_batch\Week-1\inheritance_demo"/>
 			<item value="F:\Companies\Revature\Week 1\java_msa_India_batch\Week-1\encapsulation_demo"/>
